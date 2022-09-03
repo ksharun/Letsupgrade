@@ -1,0 +1,1 @@
+The *args and **kwargs keywords allow you to pass a variable number of arguments to a Python function. The *args keyword sends a list of values to a function. **kwargs sends a dictionary with values associated with keywords to a function
